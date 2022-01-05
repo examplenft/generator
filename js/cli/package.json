@@ -44,6 +44,8 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.36.0",
+    "@aws-sdk/client-sesv2": "^3.45.0",
+    "@aws-sdk/client-sns": "^3.45.0",
     "@bundlr-network/client": "^0.3.2",
     "@metaplex/arweave-cost": "^1.0.4",
     "@project-serum/anchor": "^0.17.0",
